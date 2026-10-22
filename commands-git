@@ -1,0 +1,4 @@
+git clone <url-du-repo>
+git add .
+git commit -m "votre message"
+git push origin main
